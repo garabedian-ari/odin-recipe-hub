@@ -10,4 +10,4 @@ Creating my first website. Using odin project as a guid line
 3) adding a photo
    <img src="picture-link"  alt="photo desctriptiom" width="300" height="200" >
 
-4) hfh
+4) 
