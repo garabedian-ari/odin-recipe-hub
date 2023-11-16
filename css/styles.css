@@ -9,5 +9,11 @@ background-color: gray;
 
 
  a{
+
   color: white;
+  
+ }
+
+ .images{
+    border-radius: 50%;
  }
