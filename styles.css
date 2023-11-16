@@ -1,8 +1,13 @@
-div {
-    color: white;
-    background-color: black;
-  }
-  
-  p {
-    color: red;
-  }
+.recipe-menu{
+
+color: white;
+
+text-align: center;
+background-color: gray;
+
+}
+
+
+ a{
+  color: white;
+ }
