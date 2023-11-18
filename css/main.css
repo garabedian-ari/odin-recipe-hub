@@ -1,11 +1,16 @@
 *{
     background-color: gray;
     
+    
     }
      .title{
         color: white;
-        text-align: center;
+        
         font-style: italic;
+        border: 1px solid white;
+        padding: 5px;
+        width: 550px;
+        margin-left: 300px;
     }
 
 
@@ -16,7 +21,10 @@
     text-decoration: none;
     font-weight: bold;
     font-style: italic;
-
+    border: 1px inset white;
+    padding: 5px;
+    
+     
 
 }
 
@@ -26,6 +34,8 @@
       border-radius: 50%;
 
       transition: box-shadow 0.3s ease;
+      border: 3px solid white;
+      padding: 0px;
     }
 
 

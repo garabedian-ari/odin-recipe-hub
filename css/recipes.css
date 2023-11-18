@@ -1,6 +1,6 @@
-
 *{
-    background-color: gray;
+    background-color: brown;
+    border: 3px solid black;
 }
 
 
@@ -13,8 +13,5 @@ font-style: italic;
 
 
 
-.ul{
 
-    text-align: end;
-}
 
